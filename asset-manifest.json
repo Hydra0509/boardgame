@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/boardgame/static/css/main.f19435a6.css",
+    "main.js": "/boardgame/static/js/main.5b510650.js",
+    "static/media/oldmandance.gif": "/boardgame/static/media/oldmandance.7e5fa22d3f60e716b476.gif",
+    "static/media/otszazas.png": "/boardgame/static/media/otszazas.982c28a7d7bd643b22d8.png",
+    "static/media/otezres.png": "/boardgame/static/media/otezres.4621aebaa9883a446598.png",
+    "static/media/postas.png": "/boardgame/static/media/postas.f800ae26414f32dd143c.png",
+    "static/media/ketezres.png": "/boardgame/static/media/ketezres.67b159398ffc257f13da.png",
+    "static/media/bingo.png": "/boardgame/static/media/bingo.b6129b6c06ca9b6f8349.png",
+    "static/media/ezres.png": "/boardgame/static/media/ezres.71bcd619a04c46fca809.png",
+    "static/media/busz.png": "/boardgame/static/media/busz.e2582dd90bef0bdefb2c.png",
+    "static/media/banyatank.png": "/boardgame/static/media/banyatank.f1aa9a2e23da1ad7b759.png",
+    "static/media/dice.gif": "/boardgame/static/media/dice.293477e0ec3786a0843e.gif",
+    "static/media/curse3.jpg": "/boardgame/static/media/curse3.28fa1665bc2d1bafc10c.jpg",
+    "static/media/curse2.jpg": "/boardgame/static/media/curse2.06ba059cfed2ff840247.jpg",
+    "static/media/curse1.jpg": "/boardgame/static/media/curse1.ccbc3550111a5ce0999d.jpg",
+    "static/media/tippmix.png": "/boardgame/static/media/tippmix.9cdb96a5beac8c25d6a9.png",
+    "static/media/jóreggelt.jpg": "/boardgame/static/media/jóreggelt.07924e27286e175987c8.jpg",
+    "static/media/hokifli.jpg": "/boardgame/static/media/hokifli.581f9db1e1358b23a0a5.jpg",
+    "static/media/lotto2.png": "/boardgame/static/media/lotto2.676cf2847a4de83a18b5.png",
+    "static/media/komment.png": "/boardgame/static/media/komment.ff6387347b6f17b7070d.png",
+    "static/media/curseCardlocked.jpg": "/boardgame/static/media/curseCardlocked.0a53b9e26ce3f542a4db.jpg",
+    "static/media/mysterycardlocked.jpg": "/boardgame/static/media/mysterycardlocked.f971b5c451193973a7e5.jpg",
+    "static/media/merlin.jpeg": "/boardgame/static/media/merlin.786116546d3181c4bace.jpeg",
+    "static/media/curseCard.jpg": "/boardgame/static/media/curseCard.2e37a3f2efe788c301b8.jpg",
+    "static/media/mysterycard.jpg": "/boardgame/static/media/mysterycard.deeed5985521ee0e2f44.jpg",
+    "static/media/csirkefarhat.jpg": "/boardgame/static/media/csirkefarhat.0397f42c85916681daf9.jpg",
+    "static/media/merlin2.jpeg": "/boardgame/static/media/merlin2.1b45e60621d1a154a583.jpeg",
+    "static/media/csalas.jpg": "/boardgame/static/media/csalas.e209672f8e95403cb6db.jpg",
+    "static/media/fidesz.jpg": "/boardgame/static/media/fidesz.0c5fc9bec6e01d511ce1.jpg",
+    "static/media/lotto.png": "/boardgame/static/media/lotto.3fc6f77c355439f1f755.png",
+    "static/media/oldkaren.jpg": "/boardgame/static/media/oldkaren.34b623d7bd24e408efb2.jpg",
+    "static/media/aranka.jpg": "/boardgame/static/media/aranka.0729b35b8a74de0dca4f.jpg",
+    "index.html": "/boardgame/index.html",
+    "main.f19435a6.css.map": "/boardgame/static/css/main.f19435a6.css.map",
+    "main.5b510650.js.map": "/boardgame/static/js/main.5b510650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19435a6.css",
+    "static/js/main.5b510650.js"
+  ]
+}
